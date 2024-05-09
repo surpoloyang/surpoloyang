@@ -12,6 +12,7 @@ Hello, my name is Chen Yang and I am a master's student at Zhejiang University m
 
 📝 **Languages and Tools** 
 
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-black?logo=Jupyter_Notebook&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
