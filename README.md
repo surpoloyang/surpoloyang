@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+📈 my github stats
+
+[![surpoloyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=surpoloyang&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--
 **surpoloyang/surpoloyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
