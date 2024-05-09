@@ -19,6 +19,9 @@ Hello, my name is Chen Yang and I am a master's student at Zhejiang University m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surpoloyang)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surpoloyang.surpoloyang)
 
 <!--
