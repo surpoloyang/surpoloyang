@@ -83,6 +83,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/surpoloyang/surpoloyang/assets/github-contribution-grid-snake.svg" /></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
