@@ -51,6 +51,15 @@ Hello, my name is Chen Yang and I am a master's student at Zhejiang University m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surpoloyang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```python markdown JupyterNook
+From: 08 May 2024 - To: 09 May 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
