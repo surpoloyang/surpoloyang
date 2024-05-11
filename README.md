@@ -74,7 +74,7 @@ Hello, my name is Chen Yang and I am a master's student at Zhejiang University m
 
 <!--START_SECTION:waka-->
 
-```python markdown JupyterNook
+```Python Markdown Jupyter Notebook
 From: 08 May 2024 - To: 09 May 2024
 
 Total Time: 0 secs
