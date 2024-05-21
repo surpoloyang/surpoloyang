@@ -75,12 +75,13 @@ Hello, my name is Chen Yang and I am a master's student at Zhejiang University m
 <!--START_SECTION:waka-->
 
 ```Python Markdown Jupyter Notebook
-From: 08 May 2024 - To: 19 May 2024
+From: 08 May 2024 - To: 20 May 2024
 
-Total Time: 37 mins
+Total Time: 2 hrs 1 min
 
-Python   37 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.65 %
-JSON     0 secs          -------------------------   00.35 %
+Python   2 hrs 1 min     >>>>>>>>>>>>>>>>>>>>>>>>>   99.78 %
+JSON     0 secs          -------------------------   00.11 %
+Text     0 secs          -------------------------   00.11 %
 ```
 
 <!--END_SECTION:waka-->
