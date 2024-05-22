@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chen Yang</h1>
 <h3 align="center">a master's student at Zhejiang University majoring in Agricultural Electrification and Automation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surpoloyang&label=Profile%20views&color=0e75b6&style=flat" alt="surpoloyang" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=surpoloyang&label=Profile%20views&color=0e75b6&style=flat" alt="surpoloyang" /> </p>
 
 - 🌱 I’m currently learning **machine learning, deep learning (Computer Vision)**
 
