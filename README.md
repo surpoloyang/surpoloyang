@@ -12,6 +12,7 @@
 <a href="https://kaggle.com/yang tim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yang tim" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/surpoloyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surpoloyang" height="30" width="40" /></a>
 </p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -25,6 +26,8 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 </p>
+<be>
+<br>
 
 <h3 align="left">Top Languages:</h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surpoloyang&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="surpoloyang" /> </p>
