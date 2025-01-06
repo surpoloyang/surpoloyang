@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chen Yang</h1>
-<h3 align="center">A Master Candidate in DAAI, Zhejiang University, majoring in Agricultural Electrification and Automation.</h3>
+<h3 align="center">A Master Candidate in Zhejiang University.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=surpoloyang&label=Profile%20views&color=0e75b6&style=flat" alt="surpoloyang" /> </p>
 
-- 🌱 I’m currently learning **machine learning, deep learning (Computer Vision)**
+- 🌱 I’m currently learning **machine learning, deep learning, 3D Vision**
 
 - 📫 How to reach me **surpolotim420@gmail.com**
 
