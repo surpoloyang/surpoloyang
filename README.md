@@ -29,17 +29,6 @@
 <be>
 <br>
 
-<h3 align="left">Top Languages:</h3>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surpoloyang&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="surpoloyang" /> </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 
 
@@ -83,7 +72,7 @@ Hello, my name is Chen Yang and I am a master's student at Zhejiang University m
 
 <!--START_SECTION:waka-->
 
-```Python Markdown Jupyter Notebook
+```Python Markdown Shell
 From: 08 May 2024 - To: 13 January 2025
 
 Total Time: 208 hrs 18 mins
